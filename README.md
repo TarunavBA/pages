@@ -1,4 +1,4 @@
-# pages
+# Pages
 A simple pages app in django which has 2 sections, About and Home pages.
 
 ## How to start the server?
