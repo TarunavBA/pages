@@ -1,5 +1,5 @@
 # Pages
-A simple pages app in django which has 2 sections, About and Home pages.
+A simple pages app in django which has 2 sections, `About` and `Home` pages.
 
 ## How to start the server?
 - open terminal or cmd.
@@ -19,4 +19,6 @@ Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 ```
 
-Thats it!! :partying_face:
+- finally visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+Thats it! 🎉
